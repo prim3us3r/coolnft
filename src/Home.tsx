@@ -548,7 +548,14 @@ const Home = (props: HomeProps) => {
                             
                             <p>This is our roadmap for this very cool project bla bla bla. This is our roadmap for this very cool project bla bla bla. This is our roadmap for this very cool project bla bla bla.This is our roadmap for this very cool project bla bla bla.</p>
                             
-                            <Logos><img src="tweet.png" alt=""></img></Logos>
+                            
+                            <div class="wrapper">
+ <h2>Top Clients</h2>
+ <div class="logos">
+ <img src="tweet.png"></img>
+ <img src="discord.png"></img>
+ </div>
+</div>
                         </Des>
 
                         <h2>Join Us</h2>
