@@ -558,7 +558,7 @@ const Home = (props: HomeProps) => {
  <div className="logos">
  <img src="tweet.png" alt=""></img>
  <img src="discord.png" alt=""></img>
- <div className="copyright">
+ 
  <h4>Copyright © 2022 Cool NFT DAO</h4>
  </div>
  </div>
