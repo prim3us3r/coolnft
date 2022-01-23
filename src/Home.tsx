@@ -438,13 +438,13 @@ const Home = (props: HomeProps) => {
         <main>
             <MainContainer>
                 <WalletContainer>
-                    <Logo><a href="" target="_blank" rel="noopener noreferrer"><img alt="" src="logo.png"/></a></Logo>
+                    <Logo><a href="https://coolnft.vercel.app/" target="_blank" rel="noopener noreferrer"><img alt="" src="logo.png"/></a></Logo>
                     <Menu>
-                        <li><a href="" target="_blank" rel="noopener noreferrer">HOME</a>
+                        <li><a href="https://coolnft.vercel.app/" target="_blank" rel="noopener noreferrer">HOME</a>
                         </li>
-                        <li><a href="" target="_blank"
+                        <li><a href="https://coolnft.vercel.app/" target="_blank"
                                rel="noopener noreferrer">ABOUT US</a></li>
-                        <li><a href="" target="_blank"
+                        <li><a href="https://coolnft.vercel.app/" target="_blank"
                                rel="noopener noreferrer">ROADMAP</a></li>
                     </Menu>
                     <Wallet>
