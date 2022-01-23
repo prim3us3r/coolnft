@@ -560,7 +560,7 @@ const Home = (props: HomeProps) => {
  <img src="discord.png" alt=""></img>
  
  <h4>Copyright © 2022 Cool NFT DAO</h4>
- </div>
+ 
  </div>
 </div>
  
