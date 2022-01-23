@@ -28,7 +28,7 @@ const WalletContainer = styled.div`
   justify-content: center;
 `;
 const NFT = styled(Paper)`
-  min-width: 400px;
+  min-width: 325px;
   padding: 5px 20px 20px 20px;
   flex: 1 1 auto;
 `;
