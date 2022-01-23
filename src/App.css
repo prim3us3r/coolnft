@@ -28,6 +28,12 @@ font-weight: normal;
  justify-content: center;
 }
 
+.copyright{
+  margin-top: 10px;
+  
+}
+
+
 .MuiFab-extended{
   height: auto;
   padding-right: 0 !important;
