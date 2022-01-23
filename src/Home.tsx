@@ -555,7 +555,7 @@ const Home = (props: HomeProps) => {
             </MainContainer>
 
             <div class="wrapper">
- <h2>Top Clients!#h2>
+ <h2>Top Clients</h2>
  <div class="logos">
  <img src="tweet.png">
  <img src="discord.png">
