@@ -20,7 +20,6 @@ font-weight: normal;
 }
 
 .logos {
- !$ Other styles here !%
  display: flex;
  justify-content: space-between;
 }
