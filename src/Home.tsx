@@ -550,17 +550,19 @@ const Home = (props: HomeProps) => {
                             
                             
                         </Des>
-                    </DesContainer>
-                </MintContainer>
-            </MainContainer>
 
-            <div class="wrapper">
- <h2>Top Clients</h2>
+                        <h2>Join Us</h2>
  <div class="logos">
  <img src="tweet.png">
  <img src="discord.png">
  </div>
-</div>
+                    </DesContainer>
+                </MintContainer>
+            </MainContainer>
+
+            
+ 
+
             <Snackbar
                 open={alertState.open}
                 autoHideDuration={6000}
