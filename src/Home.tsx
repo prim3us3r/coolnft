@@ -195,7 +195,7 @@ const Price = styled(Chip)`
 
 const Image = styled.img`
   height: auto;
-  width: auto;
+  width: 80vw;
   border-radius: 20px;
 `;
 
