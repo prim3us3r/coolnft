@@ -20,6 +20,10 @@ h3{
 font-weight: normal;
 }
 
+h4{
+  color: #000000;
+}
+
 .logos {
  display: flex;
  justify-content: center;
