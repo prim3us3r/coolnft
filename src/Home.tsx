@@ -460,7 +460,7 @@ const Home = (props: HomeProps) => {
                 <MintContainer>
                     <DesContainer>
                         <NFT elevation={3}>
-                            <h2>COOL NFT</h2>
+                            <h2>DOODLE KIDS NFT</h2>
                             <br/>
                             <div><Price label={isActive && whitelistEnabled && (whitelistTokenBalance > 0) ? (whitelistPrice + " SOL") : (price + " SOL")}/><Image
                                 src="cool.jpg"
@@ -561,7 +561,7 @@ const Home = (props: HomeProps) => {
  </div>
 </div>
 <div className="wrapper">
-<h4>Copyright © 2022 Cool NFT DAO</h4>
+<h4>Copyright © 2022 DOODLE KIDS</h4>
 </div>
  
                     </DesContainer>
